@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "id": "3",
+      "file": "https://preview.colorlib.com/theme/aranoz/img/feature/feature_2.png.webp",
+      "name": "Quartz Bell Watch",
+      "cost": "58$"
+    },
+    {
+      "id": "4",
+      "file": "https://preview.colorlib.com/theme/aranoz/img/feature/feature_2.png.webp",
+      "name": "Quartz Bell Watch",
+      "cost": "10$"
+    },
+    {
+      "id": "5",
+      "file": "https://preview.colorlib.com/theme/aranoz/img/feature/feature_2.png.webp",
+      "name": "Quartz Bell Watch",
+      "cost": "55.00$"
+    }
+  ]
+}
